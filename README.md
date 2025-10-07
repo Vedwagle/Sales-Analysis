@@ -22,6 +22,28 @@ The dashboard focuses on the following primary KPIs:
 - **Outlet Size and Location Analysis**: Provides insights on sales performance by outlet size and location tier
 - **Outlet Type Comparison**: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
 
+- ## 🛠️ Tools & Technologies
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **SQL** (for data extraction and cleaning)  
+- **Power BI** (for interactive dashboards and visualization)  
+
+---
+
+## ⚙️ Project Workflow
+
+### 1️⃣ Data Extraction & Cleaning
+- Retrieved raw sales data from databases using SQL.  
+- Cleaned and preprocessed the data: handled missing values, duplicates, and formatting issues.  
+
+### 2️⃣ Exploratory Data Analysis (EDA)
+- Analyzed sales trends over time and across categories.  
+- Identified key metrics such as total sales, top-selling items, and customer behavior patterns.  
+
+### 3️⃣ Dashboard Development
+- Created an **interactive Power BI dashboard** to visualize insights.  
+- Implemented charts, KPIs, and slicers for effective business reporting.  
+
+
 ## Insights and Conclusions
 
 1. Strong overall sales performance with over $1M in total sales
